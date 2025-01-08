@@ -1,0 +1,96 @@
+/* Primary */
+.btn-primary,
+.bg-primary,
+.text-primary {
+  background-color: #4fc3f7 !important; 
+  border-color: #29b6f6 !important; 
+  color: #fff !important;
+}
+
+/* Secondary*/
+.btn-secondary,
+.bg-secondary,
+.text-secondary {
+  background-color: #80cbc4 !important; 
+  border-color: #26a69a !important; 
+  color: #fff !important;
+}
+
+/* Success */
+.btn-success,
+.bg-success,
+.text-success {
+  background-color: #66bb6a !important; 
+  border-color: #43a047 !important; 
+  color: #fff !important;
+}
+
+/* Danger*/
+.btn-danger,
+.bg-danger,
+.text-danger {
+  background-color: #ef5350 !important; 
+  border-color: #e53935 !important; 
+  color: #fff !important;
+}
+
+/* Warning */
+.btn-warning,
+.bg-warning,
+.text-warning {
+  background-color: #ffeb3b !important; 
+  border-color: #fdd835 !important;
+  color: #212121 !important;
+}
+
+/* Info  */
+.btn-info,
+.bg-info,
+.text-info {
+  background-color: #ba68c8 !important; 
+  border-color: #ab47bc !important;
+  color: #fff !important;
+}
+
+/* Dark  */
+.btn-dark,
+.bg-dark,
+.text-dark {
+  background-color: #78909c !important; 
+  border-color: #546e7a !important; 
+  color: #fff !important;
+}
+/* Deep Dark  */
+.btn-deep-dark,
+.bg-deep-dark,
+.text-deep-dark {
+  background-color: #1e1e1e !important; 
+  border-color: #3c3c3c !important; 
+  color: #fff !important;
+}
+/* Dark op  */
+.btn-dark-op,
+.bg-dark-op,
+.text-dark-op {
+  background-color: #1e1e1e45 !important; 
+  border-color: #3c3c3c5c !important; 
+  color: #fff !important;
+}
+
+/* reset */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* font */
+@font-face {
+  font-family: 'LeeSeoyun';
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2202-2@1.0/LeeSeoyun.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+body{
+  font-family: 'LeeSeoyun';
+}
