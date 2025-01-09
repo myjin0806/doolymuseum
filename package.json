@@ -40,7 +40,5 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  {
-    "homepage": "https://mygithubusername.github.io/my-react-app"
-  }
+  "homepage": "https://mygithubusername.github.io/my-react-app"
 }
